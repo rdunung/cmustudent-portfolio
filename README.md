@@ -6,3 +6,7 @@ Hi all, I am Ruchita Dunung, first-year Healthcare Policy & Management student. 
 I hope to learn how to make data fun but also clear and comprehensible. It would be great to learn how to concise complex data into visualizations. Also, coming from a clinical background it will be helpful to get an experience at coding. 
 # Portfolio
 Here's where all of my cool data will go!
+
+# Government debt
+This is a data viz for govt debt
+<https://rdunung.github.io/cmustudent-portfolio/dataviz2>
