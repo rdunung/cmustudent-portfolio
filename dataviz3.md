@@ -1,4 +1,4 @@
-# Most common hospita related infections
+# Most Common Hospital Related Infections
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7036829/figure/ijerph-17-00760-f001/>
 
 The data visualization displayed is a grouped bar graph of various pathogens causeing infections in different departments of the hospital. I chose this data to create an 
@@ -14,13 +14,12 @@ Therefore, instead of using the grouped bar chart I used the stacked bar chart t
 and led the reader directly to the necessary information thus, making an impact required. Also for the wireframes, I introduced labels for the X and Y axes as well as legend for the graph.
 The labels and the legend give clear understanding about what to look at in the visualization. 
 
+# Wireframe
+<https://drive.google.com/drive/u/0/folders/18l8w5XrjsIyzawfYUPQ6bMSOtkHDJEMf>
 
 The wireframes by viewed by two people who provided feedback by answering the questions about the visualization. The most common and useful feedback the visualization of the wireframe
-were including values of the percentages, adding a trend line, etc. The feedbacks helped me refine the wireframe for the final viz. I added the percentages to make it more impactful 
-and readable for the reader. The re-designed visualiztion creates a greater impact in terms of portraying the percentage of infection in each department and feedbacks were a proof 
-to the impact made as they mentioned that they could 'understand the bad infections in ICU and surgical area of the hospital.' The decluttering helped bring attention to important 
-information in the bar graph. I also changed the colour palatte to increase and refine its emotional quotient for the audidence. The blue and green colour shades were best used to 
-focus attention on the labels and numbers in the graph. These changes to the original data visualization and wireframe helped create the final visualization.
+were including values of the percentages, adding a trend line, etc. The feedbacks helped me refine the wireframe for the final viz. I added the percentages to make it more impactful and readable for the reader. The re-designed visualiztion creates a greater impact in terms of portraying the percentage of infection in each department and feedbacks were a proof to the impact made as they mentioned that they could 'understand the bad infections in ICU and surgical area of the hospital.' The decluttering helped bring attention to important information in the bar graph. I also changed the colour palatte to increase and refine its emotional quotient for the audidence. The blue and green colour shades were best used to focus attention on the labels and numbers in the graph. 
+These changes to the original data visualization and wireframe helped create the final visualization.
 
 # Final data visualization!
 <div class="flourish-embed flourish-chart" data-src="visualisation/5359827"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
