@@ -8,6 +8,7 @@ for the existing and future IBD patients in India.
 
 # Initial Sketches 
 <https://github.com/rdunung/cmustudent-portfolio/issues/1#issue-818407869>
+![image](https://user-images.githubusercontent.com/78671533/109446276-5db25b00-7a0f-11eb-8bc2-3f382bfc27f1.png)
 
 
 # Data for the final project 
