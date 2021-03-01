@@ -7,7 +7,7 @@ India and other countries. This project is intended to bring attention to IBD an
 for the existing and future IBD patients in India. 
 
 # Initial Sketches 
-https://github.com/rdunung/cmustudent-portfolio/issues/1#issue-818407869
+<https://github.com/rdunung/cmustudent-portfolio/issues/1#issue-818407869>
 
 
 # Data for the final project 
