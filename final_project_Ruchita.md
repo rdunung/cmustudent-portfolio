@@ -33,8 +33,8 @@ for the Irritable Bowel Disease. It answers an important question of Why India i
 to portray the increase in terms of visualization which will speak largely to the audience. The impact of the visualization can help create the 
 necessary awareness for the disease. 
 
-5. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2579633/> , 
- <https://www.biospectrumindia.com/views/69/16693/inflammatory-bowel-disease-in-india-treatment-strategy.html> This data source helps understand 
+5. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2579633/> ,
+<https://www.biospectrumindia.com/views/69/16693/inflammatory-bowel-disease-in-india-treatment-strategy.html> This data source helps understand 
 how IBD is managed in Eastern Europe, as the disease occurence there is the highest compared to India. This data will help to compare the different 
 managemnent methods used in Europe and India. Comparing the management of IBD in a place of high prevalance to Indian management can help open 
 different treatment options for the Indian IBD patients. 
