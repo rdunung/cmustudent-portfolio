@@ -1,6 +1,6 @@
-## Final Project Part I - Outline, Sketches, Data. 
+# **Final Project Part I - Outline, Sketches, Data** 
 
-# Outline
+## Outline
 
 Coming from a medical background, one of the most pressing issues I have come across is the increasing prevalance of Irritable Bowel Disease (IBD),
 in Southeast Asia, especially in India. The project gives an outlook of the disease and its epidemiology in India compared to other countries where
@@ -8,14 +8,14 @@ it is prevalent. It will help the reader understand the disease and the reason f
 India and other countries. This project is intended to bring attention to IBD and spread awareness to create better treatment options and conditions
 for the existing and future IBD patients in India. 
 
-# Initial Sketches 
+## Initial Sketches 
 
 ![image](https://user-images.githubusercontent.com/78671533/109446276-5db25b00-7a0f-11eb-8bc2-3f382bfc27f1.png)
 ![image](https://user-images.githubusercontent.com/78671533/109446531-d7e2df80-7a0f-11eb-8ce7-477cbdc5a7fa.png)
 ![image](https://user-images.githubusercontent.com/78671533/109446593-f77a0800-7a0f-11eb-876d-5297b549da04.png)
 ![image](https://user-images.githubusercontent.com/78671533/109446672-1bd5e480-7a10-11eb-9ff5-a526cf3e6ed8.png)
 
-# Data for the final project 
+## Data for the final project 
 
 1. <https://www.cdc.gov/ibd/what-is-IBD.htm> This data answers the question of What is IBD? and introduces the reader to the disease and its information. 
 Knowing about the disease will help the reader understand the seriousness of the disease which will help create awareness for the same. As anything 
@@ -39,7 +39,7 @@ how IBD is managed in Eastern Europe, as the disease occurence there is the high
 managemnent methods used in Europe and India. Comparing the management of IBD in a place of high prevalance to Indian management can help open 
 different treatment options for the Indian IBD patients. 
 
-# Intended platforms to use for project completion
+## Intended platforms to use for project completion
 
 The platform I hope to use are Shorthand, Flourish, and Tableau. Shorthand will be used to make and execute the idea proposed for the project with few interactive 
 graphs and visualizations. Flourish and Tableau will be used to make certain graphs which will be included in Shorthand to submit the final project proposed idea. 
