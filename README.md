@@ -15,3 +15,8 @@ This is a data viz for govt debt
 <https://rdunung.github.io/cmustudent-portfolio/dataviz3>
 This is a data visualization execise that used Stephen Few's Effectiveness method to critique the original data visualization and use the critique to create a wireframe on its 
 basis. The wireframe was then shown to unbiased people for feedbacks. These feedbacks were used to create a final visualization. 
+
+
+# Final project Proposal Part I 
+<https://rdunung.github.io/cmustudent-portfolio/final_project_Ruchita> 
+This a proposal for final project part I. It gives an overview of my final project. 
