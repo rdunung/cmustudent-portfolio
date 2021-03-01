@@ -17,8 +17,7 @@ for the existing and future IBD patients in India.
 
 # Data for the final project 
 
-1. What is IBD? 
-<https://www.cdc.gov/ibd/what-is-IBD.htm> This data answers the question of What is IBD? and introduces the reader to the disease and its information. 
+1. <https://www.cdc.gov/ibd/what-is-IBD.htm> This data answers the question of What is IBD? and introduces the reader to the disease and its information. 
 Knowing about the disease will help the reader understand the seriousness of the disease which will help create awareness for the same. As anything 
 related to excretion is a stigma in India, understanding the disease more closely will help desensitize the audience. 
 
@@ -35,7 +34,7 @@ to portray the increase in terms of visualization which will speak largely to th
 necessary awareness for the disease. 
 
 5. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2579633/> , 
-<https://www.biospectrumindia.com/views/69/16693/inflammatory-bowel-disease-in-india-treatment-strategy.html> This data source helps understand 
+ <https://www.biospectrumindia.com/views/69/16693/inflammatory-bowel-disease-in-india-treatment-strategy.html> This data source helps understand 
 how IBD is managed in Eastern Europe, as the disease occurence there is the highest compared to India. This data will help to compare the different 
 managemnent methods used in Europe and India. Comparing the management of IBD in a place of high prevalance to Indian management can help open 
 different treatment options for the Indian IBD patients. 
