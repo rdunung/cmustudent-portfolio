@@ -44,12 +44,15 @@ Q5. Did you find the information you were looking for?
 ## Changes made after receiving feedback from the interview. 
 1. The timeline bar graph was changed to time-series graph to show the slope of progression in decades which 
    gives clear impact of the increasing prevalence in India.
+   
 ![image](https://user-images.githubusercontent.com/78671533/110733580-3704d900-81f4-11eb-8533-c5d6d8cae1d3.png)
 
 2. The feedback suggested to add a graph to show India individually passing through epidemiological phases.
+
 ![image](https://user-images.githubusercontent.com/78671533/110733714-72070c80-81f4-11eb-9fce-1ebf8f24448d.png)
 
 3. Use of graphs other than bar charts.
+
 ![image](https://user-images.githubusercontent.com/78671533/110733771-8c40ea80-81f4-11eb-904b-5e348b008ba2.png)
 
 The above given changes will be implemented in the final presentation to create the necessary impact for the 
