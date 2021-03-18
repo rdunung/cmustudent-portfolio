@@ -12,6 +12,7 @@ My final project part 3 contained few changes that were made to final project pa
   
 # Word doc with Information and sources for project: 
   Info for Project.docx 
+  https://github.com/rdunung/cmustudent-portfolio/blob/9699d782f377e7452163f4510e53df1c1a3bca88/Info%20for%20Project.docx
 
 # Thoughts:
   It was a great experience learning data visualizations in this class. Every visualization I see now is more clear and 
