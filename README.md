@@ -20,3 +20,11 @@ basis. The wireframe was then shown to unbiased people for feedbacks. These feed
 # Final project Proposal Part I 
 <https://rdunung.github.io/cmustudent-portfolio/final_project_Ruchita> 
 This a proposal for final project part I. It gives an overview of my final project. 
+
+# Final project Part II
+<https://rdunung.github.io/cmustudent-portfolio/final_project_part2_Ruchita>
+This file contains the outline of how the Final project will look. 
+
+# Final project PArt III
+<https://rdunung.github.io/cmustudent-portfolio/final_project_part3_Ruchita>
+This file contains a summary and link of Final Project. 
