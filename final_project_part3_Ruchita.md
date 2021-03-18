@@ -11,7 +11,7 @@ My final project part 3 contained few changes that were made to final project pa
   <https://carnegiemellon.shorthandstories.com/-now-is-the-time-/index.html>
   
 # Word doc with Information and sources for project: 
-  
+  Info for Project.docx 
 
 # Thoughts:
   It was a great experience learning data visualizations in this class. Every visualization I see now is more clear and 
